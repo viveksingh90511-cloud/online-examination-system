@@ -23,6 +23,14 @@ A comprehensive full-stack web application for conducting online examinations, m
 
 ## ✨ Features
 
+### 🤖 Advanced AI Modules (New)
+- 📄 **PDF Auto-Extraction**: Upload a PDF of MCQs; AI extracts questions, options, and correct answers automatically.
+- 📷 **Biometric Face Registration**: Students must scan and register their face before starting an exam.
+- 👁️ **Continuous AI Proctoring**: Live webcam tracking to detect missing faces, multiple persons, or looking away.
+- 🚫 **Tab-Switch Detection**: Anti-cheat system that tracks if students navigate away from the exam tab.
+- 📈 **Adaptive Difficulty Engine**: Question difficulty scales up or down based on student's live performance.
+- 💡 **AI Feedback Generation**: Detailed performance feedback and personalized study insights upon exam completion.
+
 ### Admin Module
 - 📊 Analytics Dashboard with Charts
 - 👥 Student Management (CRUD)
